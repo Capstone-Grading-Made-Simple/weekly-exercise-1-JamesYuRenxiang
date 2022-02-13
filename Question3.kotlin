@@ -1,0 +1,15 @@
+import java.util.Scanner
+
+public class Question3
+{
+  public static void main(String[] args)
+  {
+    /**
+     * Reads integer entered by the user, multiplies the integer by itself and print out the result.
+     * 
+     * Hint: scanner.nextInt() to read integer
+     */
+     val scanner = Scanner(System.`in`)
+ 
+    }
+}
